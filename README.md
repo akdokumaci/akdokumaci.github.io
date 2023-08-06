@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6S45PCBTKP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6S45PCBTKP');
+</script>
+
 # Hello
 
 Greetings, I'm Kamil, a software engineer (not a data-scientist) with a strong background in site reliability engineering, distributed computing and an interest in AI powered technology. Throughout my career, I've been dedicated to building robust and scalable solutions that drive seamless user experiences. With a passion for innovation and a keen eye for detail, I thrive in challenging environments where I can leverage my expertise to tackle complex technical problems. My commitment to continuous learning and a collaborative approach has allowed me to contribute effectively to diverse teams and deliver exceptional results. 
