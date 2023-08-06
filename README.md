@@ -5,24 +5,24 @@ Greetings, I'm Kamil, a software engineer (not a data-scientist) with a strong b
 ## Versatile Expertise
 ### Things I Use
 - __Languages__
-    - [Python] ❤️❤️❤️
-    - [Golang] ❤️❤️
-    - [Java] ❤️
+    - [Python]() ❤️❤️❤️
+    - [Golang]() ❤️❤️
+    - [Java]() ❤️
 
 - __Monitoring__
     - [Elasticsearch](https://www.elastic.co)
     - [Prometheus](https://prometheus.io)
-    - [Fluentbit]
-    - [Loki]
-    - [Grafana]
-    - [Tempo]
-    - [OpenTelemetry]
+    - [Fluentbit]()
+    - [Loki]()
+    - [Grafana]()
+    - [Tempo]()
+    - [OpenTelemetry]()
 
 - Cloud Native Software
-    - [Kubernetes] 
-    - [Helm]
-    - [Argo]
-    - [Linkerd]
+    - [Kubernetes]() 
+    - [Helm]()
+    - [Argo]()
+    - [Linkerd]()
 
 - Cloud Platforms
     - Azure
@@ -30,20 +30,20 @@ Greetings, I'm Kamil, a software engineer (not a data-scientist) with a strong b
     - GCP
 
 - Databases
- - [Postgresql]
- - [MongoDB]
- - [MySQL]
- - [Cassandra]
+ - [Postgresql]()
+ - [MongoDB]()
+ - [MySQL]()
+ - [Cassandra]()
 
 - Apache Projects
     - [Apache Spark](https://spark.apache.org)
-    - [Kafka]
-    - [Flink]
+    - [Kafka]()
+    - [Flink]()
 
 - AI Tech 
     - [MLFlow]()
-    - [Databricks]
-    - [Kubeflow]
+    - [Databricks]()
+    - [Kubeflow]()
 
 ## Stuff that I like
 - [GNU](https://www.gnu.org/home.en.html)
